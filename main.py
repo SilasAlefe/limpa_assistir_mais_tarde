@@ -1,3 +1,5 @@
+#TAMANHO DE TEXTO DO WINDOWS TEM QUE ESTAR EM 170%
+
 import pyautogui as py
 import keyboard
 import time
